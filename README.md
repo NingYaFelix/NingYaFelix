@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://img.shields.io/badge/-python3.10-orange)
 
 <!--
 **YaningLuo/YaningLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&show_icons=true&theme=radical)
-https://img.shields.io/badge/-python-orange
+
