@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br />
 </p>
+![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&hide=contribs,prs&show_icons=true)
