@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 #### Programming languages and tools
 <p>
 <code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/minecraft-ar21.svg"></code>
-<code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/python-ar21.svg"></code>
+</code><code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/djangoproject-ar21.svg"></code>
 </br>
 <code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/docker-ar21.svg"></code>
-<code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/djangoproject-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/python-ar21.svg">
 <code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/mysql-ar21.svg"></code>
 </br>
 </p>
