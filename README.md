@@ -18,3 +18,14 @@ Here are some ideas to get you started:
 ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&show_icons=true&theme=radical)
 ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&hide=contribs,prs&show_icons=true&theme=radical)
 -->
+
+#### :computer: Programming languages and tools: 
+<p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<br />
+</p>
+<sub>Credits to: [MIT](https://mitpress.mit.edu/sites/default/files/sicp/index.html) for the [picture](https://mitpress.mit.edu/sites/default/files/sicp/graphics/main-banner.gif)</sub>
