@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 #### :computer: Programming languages and tools: 
 <p>
- ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&hide=contribs,prs&show_icons=true&hide_border=true)
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <br />
@@ -31,4 +30,4 @@ Here are some ideas to get you started:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br />
 </p>
-![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api ?username=YaningLuo&hide=contribs,prs )
+![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&hide=contribs,prs )
