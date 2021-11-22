@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/-python3.10-orange)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luo316519@gmail.com)
 
 <!--
 **YaningLuo/YaningLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
