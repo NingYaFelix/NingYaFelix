@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <code><img width="10%" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"></code>
 -->
 
-#### :computer: Programming languages and tools: 
+#### :Programming languages and tools: 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
