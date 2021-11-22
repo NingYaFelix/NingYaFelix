@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&show_icons=true&theme=radical)
-![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo)](https://github.com/anuraghazra/github-readme-stats)
+
