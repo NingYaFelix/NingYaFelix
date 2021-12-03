@@ -4,7 +4,7 @@
 <!-- ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&show_icons=true&hide=stars,commits,prs,issues,contribs) -->
 <p>
   
-![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&hide=prs,issues,contribs)
+![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&hide=prs,issues)
 
 #### Programming languages and tools
 
