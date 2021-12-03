@@ -3,7 +3,7 @@
 
 <!-- ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&show_icons=true) -->
 <p>
-[![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo)](https://github.com/anuraghazra/github-readme-stats)
+[![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo)](https://github.com/YaningLuo/github-readme-stats)
 #### Programming languages and tools
 <code><img width="15%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/minecraft-ar21.svg"></code>
 </br>
