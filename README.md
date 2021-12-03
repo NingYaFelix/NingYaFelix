@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luo316519@gmail.com)
 
-![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&theme=THEME_NAME&hide=prs,issues)
+<!-- ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&theme=THEME_NAME&hide=prs,issues) -->
 
 <!-- ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&show_icons=true&hide=stars,commits,prs,issues,contribs) -->
   
