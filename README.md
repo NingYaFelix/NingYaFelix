@@ -1,4 +1,4 @@
-<img align='center' src='https://github.com/YaningLuo/YaningLuo/blob/main/img/shawu3.png' width='260px'>
+<img align='right' src='https://github.com/YaningLuo/YaningLuo/blob/main/img/shawu3.png' width='260px'>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luo316519@gmail.com)
 
