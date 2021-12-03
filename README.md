@@ -1,9 +1,8 @@
-<img align='right' src='https://github.com/YaningLuo/YaningLuo/blob/main/img/shawu.png' width='300px'>
-
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luo316519@gmail.com)
 
-<!-- ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&theme=THEME_NAME&hide=prs,issues) -->
+<img align='right' src='https://github.com/YaningLuo/YaningLuo/blob/main/img/shawu.png' width='250px'>
 
+<!-- ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&theme=THEME_NAME&hide=prs,issues) -->
 <!-- ![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&show_icons=true&hide=stars,commits,prs,issues,contribs) -->
   
 #### Programming languages and tools
