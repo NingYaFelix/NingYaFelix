@@ -5,6 +5,9 @@
   
 #### Programming languages and tools
 <p>
+  
+![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&hide=prs,issues&theme=THEME_NAME)
+  
 <code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/minecraft-ar21.svg"></code>
 </br>
 <code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/djangoproject-ar21.svg"></code>
@@ -12,8 +15,5 @@
 </br>
 <code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/python-ar21.svg"></code>
-
-![YaningLuo GitHub stats](https://github-readme-stats.vercel.app/api?username=YaningLuo&hide=prs,issues&theme=THEME_NAME)
-
 </br>
 </p>
