@@ -8,7 +8,7 @@
 #### Programming languages and tools
 <p>
   <code>
-    <a href="https://www.minecraft.net/zh-hans">
+    <a href="https://www.minecraft.net">
       <img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/minecraft-ar21.svg">
     </a>
   </code></br>
