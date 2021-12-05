@@ -7,7 +7,7 @@
   
 #### Programming languages and tools
 <p>
-<code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/minecraft-ar21.svg"></code>
+<code><a href="https://www.minecraft.net/zh-hans"><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/minecraft-ar21.svg"></a></code>
 </br>
 <code><img width="10%" src="https://github.com/YaningLuo/YaningLuo/blob/main/img/djangoproject-ar21.svg"></code>
 </br>
