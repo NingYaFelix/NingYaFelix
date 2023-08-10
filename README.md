@@ -1,4 +1,4 @@
-<p><img src="https://count.getloli.com/get/@github.readme"></a><img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right"></p>
+<p><img src="https://count.getloli.com/get/@:NingYaFelix" alt=":NingYaFelix" /></p>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luo316519@gmail.com)
 
