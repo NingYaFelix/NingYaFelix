@@ -1,5 +1,4 @@
-<img align='right' src='https://github.com/YaningLuo/YaningLuo/blob/main/img/伊蕾娜.png' width='260px'>
-<!--伊蕾娜图片是miss降维打击的图片哦-->
+<p><img src="https://count.getloli.com/get/@github.readme"></a><img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right"></p>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luo316519@gmail.com)
 
